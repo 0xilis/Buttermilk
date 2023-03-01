@@ -1,0 +1,16 @@
+new ActionNamesRev WFFileDestinationPath com.buttermilk.demo
+
+SaveFile()
+/* Test */GetURL()
+Text() // Single Line Comment Example
+//Another single line comment Example
+CreateFolder(Directory = UltraUpdate/Updated, Writeable = True)
+is.workflow.actions.gettext()
+GetURL()
+SetVar()
+Text()
+Alol
+/*
+MultiLine Comment Example
+*/
+SaveFile()
